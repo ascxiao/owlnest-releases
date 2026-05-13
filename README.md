@@ -6,6 +6,9 @@
 
 
 <img width="1252" height="789" alt="image" src="https://github.com/user-attachments/assets/00e17ec4-a64e-4f8a-b401-6b96e60d75aa" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/820d2af2-33ac-4e98-b1d1-0ae6a97f83d3" />
+<img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/bdf8b828-57b6-4bf3-b885-8853c8e223f0" />
+
 
 
 ### The Problem: The "Where Was I?" Tax
