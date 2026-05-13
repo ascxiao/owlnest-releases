@@ -1,5 +1,3 @@
----
-
 # 🦉 Owlnest
 **Never lose your flow again.** Owlnest is a smart context-saver that helps you track your work, recall past sessions, and capture notes effortlessly.
 <img width="1252" height="789" alt="image" src="https://github.com/user-attachments/assets/00e17ec4-a64e-4f8a-b401-6b96e60d75aa" />
@@ -26,7 +24,5 @@
 We love hearing from our users! If you run into issues or have ideas for new features:
 *   **In-App Feedback**: Use the "Send Feedback" button inside the Owlnest sidebar.
 *   **Direct Support**: If the app is not launching, please feel free to open a [GitHub Issue](https://github.com/ascxiao/owlnest-releases/issues) here.
-
----
 
 Copyright (c) 2026 Carlos Miguel. All rights reserved. This binary is provided as-is for personal use only.
