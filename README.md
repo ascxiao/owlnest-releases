@@ -6,6 +6,21 @@ A lightweight desktop application that automatically captures your progress, pla
 
 [![Owlnest Release](https://img.shields.io/github/v/release/ascxiao/owlnest-releases?color=22c55e&label=Latest%20Beta&style=for-the-badge)](https://github.com/ascxiao/owlnest-releases/releases/latest)
 
+## Table of Contents
+
+- [The Problem](#the-problem)
+- [The Solution](#the-solution-owlnest)
+- [Key Features](#key-features)
+- [How It Works](#how-it-works)
+- [Perfect For](#perfect-for)
+- [Why Owlnest?](#why-owlnest)
+- [Status](#-status-beta)
+- [Installation](#installation)
+- [Quick Start](#quick-start)
+- [Philosophy](#philosophy)
+- [Privacy](#privacy)
+- [Feedback & Support](#feedback--support)
+- [License](#license)
 
 <img width="1252" height="789" alt="image" src="https://github.com/user-attachments/assets/00e17ec4-a64e-4f8a-b401-6b96e60d75aa" />
 
@@ -58,7 +73,7 @@ See all your tracked applications, your latest notes, and how many times you've 
 All notes are stored on your machine in SQLite. No cloud, no servers, no privacy concerns. Works offline, instantly.
 
 ### 📱 **Cross-Platform**
-Windows, macOS, Linux. One codebase. Same beautiful experience everywhere.
+Windows, macOS. One codebase. Same beautiful experience everywhere.
 
 ### ⚙️ **Lightweight & Fast**
 Built with Tauri and React. ~5MB footprint. Runs quietly in your system tray. Zero impact on performance.
@@ -111,18 +126,59 @@ Owlnest is currently in **active beta development**. Core functionality is stabl
 ## Installation
 
 ### Requirements
-- Windows 10+
+- Windows 10+ or macOS 10.13+
 - 10MB disk space
 
 ### Download
 Get the latest release for your platform:
-- **[Windows]()**
+- **[Windows](https://github.com/ascxiao/owlnest-releases/releases/latest)**
+- **[macOS](https://github.com/ascxiao/owlnest-releases/releases/latest)**
 
 ### First Time Setup
-1. Download and install Owlnest
-2. Launch the app
-3. Add your applications to track
-4. You're ready to go
+
+#### **Windows**
+
+1. Download the `.msi` installer from the releases page
+2. Run the installer and follow the setup wizard
+3. Launch Owlnest from your Start Menu or desktop shortcut
+4. Add your applications to track
+5. You're ready to go
+
+#### **macOS**
+
+1. Download the `.dmg` file from the releases page
+2. Open the `.dmg` file (double-click)
+3. Drag the Owlnest app into the Applications folder
+4. Open Applications folder and double-click Owlnest
+
+**⚠️ macOS Security Warning**
+
+On first launch, you may see a security warning: *"Owlnest cannot be opened because the developer cannot be verified."*
+
+This is normal for beta apps. Here's how to bypass it:
+
+**Option 1: Right-Click Method (Easiest)**
+1. In Finder, navigate to Applications
+2. Right-click on Owlnest
+3. Select "Open" from the menu
+4. Click "Open" in the security dialog
+5. The app will now run
+
+**Option 2: System Preferences Method**
+1. Try to open Owlnest normally (you'll get the security warning)
+2. Go to **System Preferences** → **Security & Privacy**
+3. Click the **General** tab
+4. Look for "Owlnest was blocked..." message
+5. Click **"Open Anyway"**
+6. Owlnest will now launch
+
+**Option 3: Terminal Method (Advanced)**
+```bash
+xattr -d com.apple.quarantine /Applications/Owlnest.app
+```
+Then launch Owlnest normally.
+
+After the first launch, you won't see this warning again. We're working on getting a proper code signature for future releases.
 
 
 ## Quick Start
@@ -172,8 +228,5 @@ Copyright (c) 2026 Carlos Miguel. All rights reserved. This binary is provided a
 
 *Your context is sacred. Owlnest preserves it.*
 
-
-
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/820d2af2-33ac-4e98-b1d1-0ae6a97f83d3" />
 <img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/bdf8b828-57b6-4bf3-b885-8853c8e223f0" />
-
