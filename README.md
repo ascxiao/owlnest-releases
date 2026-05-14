@@ -6,6 +6,9 @@ A lightweight desktop application that automatically captures your progress, pla
 
 [![Owlnest Release](https://img.shields.io/github/v/release/ascxiao/owlnest-releases?color=22c55e&label=Latest%20Beta&style=for-the-badge)](https://github.com/ascxiao/owlnest-releases/releases/latest)
 
+
+<img width="1252" height="789" alt="image" src="https://github.com/user-attachments/assets/00e17ec4-a64e-4f8a-b401-6b96e60d75aa" />
+
 ## Table of Contents
 
 - [The Problem](#the-problem)
@@ -22,8 +25,7 @@ A lightweight desktop application that automatically captures your progress, pla
 - [Feedback & Support](#feedback--support)
 - [License](#license)
 
-<img width="1252" height="789" alt="image" src="https://github.com/user-attachments/assets/00e17ec4-a64e-4f8a-b401-6b96e60d75aa" />
-
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/820d2af2-33ac-4e98-b1d1-0ae6a97f83d3" />
 
 ## The Problem
 
@@ -57,6 +59,8 @@ The next time you open that application, your notes appear instantly, restoring 
 
 No friction. No extra steps. Just a tiny moment of capture that saves you from hours of context-switching later.
 
+
+<img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/bdf8b828-57b6-4bf3-b885-8853c8e223f0" />
 
 ## Key Features
 
@@ -227,6 +231,3 @@ Copyright (c) 2026 Carlos Miguel. All rights reserved. This binary is provided a
 **Made with 🦉 by Carlos Miguel**
 
 *Your context is sacred. Owlnest preserves it.*
-
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/820d2af2-33ac-4e98-b1d1-0ae6a97f83d3" />
-<img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/bdf8b828-57b6-4bf3-b885-8853c8e223f0" />
