@@ -25,7 +25,7 @@ A lightweight desktop application that automatically captures your progress, pla
 - [Feedback & Support](#feedback--support)
 - [License](#license)
 
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/820d2af2-33ac-4e98-b1d1-0ae6a97f83d3" />
+<img width="1913" height="1016" alt="image" src="https://github.com/user-attachments/assets/7a5eda00-8755-4bbf-8530-7fd6b21436f7" />
 
 ## The Problem
 
@@ -60,7 +60,8 @@ The next time you open that application, your notes appear instantly, restoring 
 No friction. No extra steps. Just a tiny moment of capture that saves you from hours of context-switching later.
 
 
-<img width="1002" height="789" alt="image" src="https://github.com/user-attachments/assets/bdf8b828-57b6-4bf3-b885-8853c8e223f0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7cb8d101-1983-4373-9fa0-29ef2558dbaa" />
+
 
 ## Key Features
 
