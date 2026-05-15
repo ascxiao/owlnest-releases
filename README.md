@@ -225,7 +225,7 @@ We love hearing from our users! If you run into issues or have ideas for new fea
 
 ## License
 
-Copyright (c) 2026 Carlos Miguel. All rights reserved. This binary is provided as-is for personal use only.
+Copyright (c) 2026 kaluroos/ascxiao. All rights reserved. This binary is provided as-is for personal use only.
 
 ---
 
