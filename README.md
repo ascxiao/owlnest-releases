@@ -229,6 +229,6 @@ Copyright (c) 2026 kaluroos/ascxiao. All rights reserved. This binary is provide
 
 ---
 
-**Made with 🦉 by Carlos Miguel**
+**Made with 🦉 by kaluroos/ascxiao**
 
 *Your context is sacred. Owlnest preserves it.*
